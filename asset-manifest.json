@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/smartrons-app/static/css/main.0f662705.chunk.css",
+    "main.js": "/smartrons-app/static/js/main.f6acdab4.chunk.js",
+    "main.js.map": "/smartrons-app/static/js/main.f6acdab4.chunk.js.map",
+    "runtime-main.js": "/smartrons-app/static/js/runtime-main.255fe098.js",
+    "runtime-main.js.map": "/smartrons-app/static/js/runtime-main.255fe098.js.map",
+    "static/js/2.60aa12b5.chunk.js": "/smartrons-app/static/js/2.60aa12b5.chunk.js",
+    "static/js/2.60aa12b5.chunk.js.map": "/smartrons-app/static/js/2.60aa12b5.chunk.js.map",
+    "static/js/3.205d905a.chunk.js": "/smartrons-app/static/js/3.205d905a.chunk.js",
+    "static/js/3.205d905a.chunk.js.map": "/smartrons-app/static/js/3.205d905a.chunk.js.map",
+    "index.html": "/smartrons-app/index.html",
+    "static/css/main.0f662705.chunk.css.map": "/smartrons-app/static/css/main.0f662705.chunk.css.map",
+    "static/js/2.60aa12b5.chunk.js.LICENSE.txt": "/smartrons-app/static/js/2.60aa12b5.chunk.js.LICENSE.txt",
+    "static/media/burn-dark.71b8150a.svg": "/smartrons-app/static/media/burn-dark.71b8150a.svg",
+    "static/media/burn.f12a3152.svg": "/smartrons-app/static/media/burn.f12a3152.svg",
+    "static/media/logimg.84960df3.jpg": "/smartrons-app/static/media/logimg.84960df3.jpg",
+    "static/media/logm.9c996e3c.jpg": "/smartrons-app/static/media/logm.9c996e3c.jpg",
+    "static/media/logo.6921a8ce.svg": "/smartrons-app/static/media/logo.6921a8ce.svg",
+    "static/media/logo.fba3736c.png": "/smartrons-app/static/media/logo.fba3736c.png",
+    "static/media/message.bc71e445.jpg": "/smartrons-app/static/media/message.bc71e445.jpg",
+    "static/media/pocket1.7477cf2e.svg": "/smartrons-app/static/media/pocket1.7477cf2e.svg",
+    "static/media/pocket2.ec5c2a99.svg": "/smartrons-app/static/media/pocket2.ec5c2a99.svg",
+    "static/media/pocket3.31b85285.svg": "/smartrons-app/static/media/pocket3.31b85285.svg",
+    "static/media/pocket4.7d78554e.svg": "/smartrons-app/static/media/pocket4.7d78554e.svg",
+    "static/media/success.faee9f17.svg": "/smartrons-app/static/media/success.faee9f17.svg",
+    "static/media/tree-dark.1c622895.svg": "/smartrons-app/static/media/tree-dark.1c622895.svg",
+    "static/media/tree.171ad79c.svg": "/smartrons-app/static/media/tree.171ad79c.svg",
+    "static/media/tronlink.e60d7b91.png": "/smartrons-app/static/media/tronlink.e60d7b91.png",
+    "static/media/upline-dark.abcb06a7.svg": "/smartrons-app/static/media/upline-dark.abcb06a7.svg",
+    "static/media/upline.213d8f43.svg": "/smartrons-app/static/media/upline.213d8f43.svg",
+    "static/media/wallet-dark.124e3d39.svg": "/smartrons-app/static/media/wallet-dark.124e3d39.svg",
+    "static/media/wallet.dd37420f.svg": "/smartrons-app/static/media/wallet.dd37420f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.255fe098.js",
+    "static/js/2.60aa12b5.chunk.js",
+    "static/css/main.0f662705.chunk.css",
+    "static/js/main.f6acdab4.chunk.js"
+  ]
+}
